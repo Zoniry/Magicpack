@@ -1,0 +1,13 @@
+name = "Shygays"
+author = "Ryan"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8fafbd5d390823249fd225b3dfdee513c921bed1ad170da7ef17f97457d58953"
+
+[versions]
+forge = "54.1.3"
+minecraft = "1.21.4"
